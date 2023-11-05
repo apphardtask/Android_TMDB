@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="error_text">Error Please Try Again</string>
+    <string name="Overview">Overview</string>
+    <string name="UserScore">User\nScore</string>
+    <string name="NoInternet">No internet</string>
+</resources>
